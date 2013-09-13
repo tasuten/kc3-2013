@@ -36,7 +36,7 @@
     4. 情報セキュリティを脅かす攻撃手法（攻撃側）
     5. まとめ（参考文献など）
 * この資料は以下から閲覧可能
-    * https://www.dropbox.com/s/tkppnzs1292u6v9/security.zip
+    * <http://tasuten.github.io/docs/kc3_2013/presen.html>
 
 ### 免責事項
 * この勉強会においては私の知識（＋参考文献）に基づきいろいろ説明させて頂きますが、記憶違いや誤解などが多々あると思われます。
